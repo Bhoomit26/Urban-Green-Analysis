@@ -4,8 +4,11 @@ This project aligns with SDG-15 (Life on Land) by using remote sensing to analyz
 **Objectives**
 
 •	To utilize satellite remote sensing data to assess green spaces in urban areas.
+
 •	To calculate ratios and elasticities based on built-up and vegetation classes.
+
 •	To evaluate urban greenery dynamics and determine growth percentages for various cities.
+
 •	To contribute to sustainable urban planning by providing insights into urban development trends.
 
 **Methodology**
